@@ -1,2 +1,2 @@
-# calculiyator
-for pyqt5
+# sqlite3
+python db
