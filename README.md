@@ -1,2 +1,2 @@
 # calculiyator
-for puqt5
+for pyqt5
