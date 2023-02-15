@@ -1,1 +1,2 @@
 # calculiyator
+for puqt5
